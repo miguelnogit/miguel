@@ -1,93 +1,93 @@
 const perguntas = [
     {
-      pergunta: "Qual é o principal objetivo da cartografia?",
+      pergunta: "",
       respostas: [
-        "Representar graficamente o relevo terrestre",
-        "Estudar os processos de formação dos mapas",
-        "Representar e analisar a superfície terrestre em mapas",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "O que é um datum cartográfico?",
-      respostas: [
-        "Um conjunto de linhas de referência utilizado na projeção de mapas",
-        "Uma medida de distância em mapas topográficos",
-        "Um sistema de coordenadas utilizado na construção de mapas",
+        "Seu desodorate preferido",
+        "Chave de carro bluetooth",
+        "Looney Tunes",
       ],
       correta: 0
     },
     {
-      pergunta: "O que é um mapa topográfico?",
+      pergunta: "",
       respostas: [
-        "Um mapa que mostra apenas as características físicas do terreno",
-        "Um mapa que exibe a distribuição populacional de uma região",
-        "Um mapa que representa as características naturais e artificiais do terreno",
+        "Documentário",
+        "Minecraft",
+        "Colher de madeira (aquela da cozinha sabe)",
       ],
-      correta: 2
+      correta: 1
     },
     {
-      pergunta: "O que é a escala de um mapa?",
+      pergunta: "",
       respostas: [
-        "A relação entre a distância no mapa e a distância real na superfície terrestre",
-        "A medida da inclinação do terreno",
-        "O número de cores utilizadas na representação do relevo",
+        "Geodude (pokémon)",
+        "Chave Allen",
+        "Oxigênio",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "",
+      respostas: [
+        "Gente grande 2",
+        "Leis de Newton",
+        "Garrafa d'água de plástico",
       ],
       correta: 0
     },
     {
-      pergunta: "O que é um meridiano?",
+      pergunta: "",
       respostas: [
-        "Uma linha imaginária que une os polos da Terra",
-        "Uma linha que divide a Terra em Hemisfério Leste e Hemisfério Oeste",
-        "Uma linha de referência utilizada na projeção de mapas",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "O que é a interpolação cartográfica?",
-      respostas: [
-        "Uma técnica para criar mapas usando imagens de satélite",
-        "Um método para extrair dados de um mapa impresso",
-        "Um processo para estimar valores em locais onde não há medições diretas",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "O que é uma carta náutica?",
-      respostas: [
-        "Um mapa utilizado para fins agrícolas",
-        "Um mapa que representa a geologia de uma região",
-        "Um mapa marítimo que mostra características importantes para a navegação",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "O que é uma ortofotomapa?",
-      respostas: [
-        "Um tipo de mapa que mostra apenas estruturas religiosas",
-        "Uma fotografia aérea corrigida geometricamente para remover distorções",
-        "Um mapa que mostra apenas a distribuição de água em uma região",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "O que é um levantamento planialtimétrico?",
-      respostas: [
-        "Um levantamento que registra apenas dados altimétricos",
-        "Um levantamento que registra dados planimétricos e altimétricos de uma área",
-        "Um levantamento que registra apenas dados relativos às curvas de nível",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "O que é uma curva de nível em um mapa topográfico?",
-      respostas: [
-        "Uma linha que indica a inclinação do terreno",
-        "Uma linha que indica a direção do fluxo de água",
-        "Uma linha que indica a densidade populacional",
+        "Bloons 6 (jogo do macaquinho)",
+        "Bateria recarregável",
+        "Cidade inicial do jogo do pokémon",
       ],
       correta: 0
+    },
+    {
+      pergunta: "",
+      respostas: [
+        "A lua (em qualquer fase)",
+        "Bakugan",
+        "Chegar perfeitamente mais cedo no destino (2~3 minutos adiantado)",
+      ],
+      correta: 2
+    },
+    {
+      pergunta: "",
+      respostas: [
+        "Sistema métrico",
+        "ICarly",
+        "Cortador de unha",
+      ],
+      correta: 0
+    },
+    {
+      pergunta: "",
+      respostas: [
+        "Discord",
+        "Guitar hero",
+        "Montanha coberta de gelo",
+      ],
+      correta: 1
+    },
+    {
+      pergunta: "",
+      respostas: [
+        "Ilha do medo (filme)",
+        "Relógios",
+        "Fórmula de Bháskara",
+      ],
+      correta: 0
+    },
+    {
+      pergunta: "",
+      respostas: [
+        "Chão",
+        "Fanta uva",
+        "Videos de pedras caindo de lugares altos",
+      ],
+      correta: 2
     },
   ];
   
